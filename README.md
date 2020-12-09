@@ -1,18 +1,18 @@
 # cryptography
 here are 5 cryptography terms:
 
-*Cryptogram -
+* Cryptogram -
 A message in code
 
-*Cipher -
+* Cipher -
 A secret way of writing code
 
-*Cribs -
+* Cribs -
 Common words and phrases 
 
-*Frequency Analysis -
+* Frequency Analysis -
 Using a specific way to solve a cryptography by thinking of common letters and such
 
-*Cryptosystem - 
+* Cryptosystem - 
 The environment where all things encryption is stored - an encryption and decryption program is subtitles to this term
 
